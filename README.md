@@ -8,7 +8,7 @@
   <strong> Oi! Estou estudando desenvolvimento web e flutter mobile. </strong> <br>
   <br>
 :woman_technologist:
- <strong> No momento, estou procurando por dev front-end. </ strong> <br>
+ <strong> No momento, aprimorando minhas habilidades como Frontend developer. </ strong> <br>
 </p>
 
 <h3>Conhecimentos</h3>

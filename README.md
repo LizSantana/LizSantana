@@ -1,11 +1,10 @@
 # Liz Brito
 ## About me
 
-👨‍💻 <strong>Software Engineer Intern at <a href="https://db.tec.br/">DB</a></strong>
+👨‍💻 <strong>Data Science Intern at <a href="https://db.tec.br/">DB</a></strong>
 
 :mortar_board: <strong>Graduanda em Ciência e Tecnologia - UFBA</strong>
 
-**Faço parte da Empresa Júnior de Engenharia da Computação da UFBA - [TITAN](https://titanci.com.br/)**
 
 [![Linkedin: LizBrito](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/liz-brito-santana)](https://www.linkedin.com/in/liz-brito-santana)
 
